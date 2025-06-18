@@ -34,7 +34,8 @@ Mastodon.py==2.0.1
 numexpr 
 numpy
 openai==1.86.0
-opencv-python==4.11.0.86
+opencv-python-headless
+
 pandas
 pillow==11.2.1
 pycparser==2.22
